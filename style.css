@@ -1,0 +1,38 @@
+.heading{
+width: 100%;
+margin-top: 0px;
+text-align: left;
+font-size: 20px;
+}
+#instructions{
+background-color: aquamarine;
+float: right;
+}
+body{
+background-image:url("background.jpg");
+text-align: center;
+}
+img{
+width: 100%;
+}
+#footer{
+text-align: center;
+width: 100%;
+background-color: lightblue;
+position:fixed;
+bottom: 0;
+}
+.modal-dialog{
+width: 90%;
+}
+.instruction_img{
+width: 45%;
+display: inline-block;
+}
+video{
+background-image:url("game_console.png");
+background-size: cover;
+background-position: center;
+padding: 30px;
+border-radius: 100px;
+}
